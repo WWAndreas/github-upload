@@ -1,0 +1,20 @@
+{
+  "id": 57589,
+  "account": 16,
+  "member": 221185,
+  "description": "charged - Maker std: 05.12.2019 - 31.12.2019",
+  "price": "29.03",
+  "taxPercent": "0.00",
+  "invoice": 3014,
+  "lockVersion": 2,
+  "createdAt": "2019-12-05T14:15:03.110Z",
+  "updatedAt": "2019-12-10T13:56:11.412Z",
+  "updatedBy": 354,
+  "booking": null,
+  "resourceLog": null,
+  "memberPackage": 33432,
+  "dateTime": "2019-12-05T15:15:03",
+  "calculated": true,
+  "onBehalfOf": null,
+  "date": "2019-12-05"
+}

@@ -1,0 +1,20 @@
+{
+	"DSW":
+	{	
+		"package": ["charged - Maker std", "charged - Maker flex","charged - Offene Werkstätte Holzbearbeitung","tbd"],	
+		"amountformembership":"41.66",
+		"amountforbookings":"30",
+		"charge_to":
+		{
+			"name":"Andrea Durnthaler",
+			"company":"D. Swaorvski KG",
+			"costCenter":"1010",
+			"address":"Swarovskistraße 30",
+			"city":"Wattens",
+			"ZIP":"6112",
+			"country":"Austria",
+			"email":"test@test.com"
+		}
+	}
+	
+}

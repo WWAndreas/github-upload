@@ -1,0 +1,9 @@
+{
+  "storage": 
+  {
+    "lastDate": "2021-03-12",
+    "enableEmail": "TRUE",
+    "storeOutput": "TRUE",
+    "shorterInvoices": "TRUE",
+    "enableStorno": "FALSE"
+  }}

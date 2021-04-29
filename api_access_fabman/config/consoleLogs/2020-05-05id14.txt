@@ -1,0 +1,22 @@
+last update:2020-05-05
+2020-5-31
+2020-6-30
+2020-7-31
+2020-8-31
+2020-9-30
+2020-10-31
+2020-11-30
+2020-12-31
+Creating Charges for:  2020-5-31
+FromDate:  2020-5-01
+{
+    "error": "Bad Request",
+    "message": "child \"fromDate\" fails because [\"fromDate\" needs to be a date in format \"YYYY-MM-DD\"]",
+    "statusCode": 400,
+    "validation": {
+        "keys": [
+            "fromDate"
+        ],
+        "source": "query"
+    }
+}

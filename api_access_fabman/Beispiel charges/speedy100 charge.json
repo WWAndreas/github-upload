@@ -1,0 +1,20 @@
+{
+  "id": 58121,
+  "account": 16,
+  "member": 221185,
+  "description": "Trotec Speedy 100, 22s",
+  "price": "0.06",
+  "taxPercent": "20.00",
+  "invoice": 3012,
+  "lockVersion": 2,
+  "createdAt": "2019-12-10T12:46:52.474Z",
+  "updatedAt": "2019-12-10T12:48:18.346Z",
+  "updatedBy": 354,
+  "booking": null,
+  "resourceLog": 518697,
+  "memberPackage": null,
+  "dateTime": "2019-12-10T13:46:52",
+  "calculated": true,
+  "onBehalfOf": null,
+  "date": "2019-12-10"
+}

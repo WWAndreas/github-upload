@@ -1,0 +1,9 @@
+last update:2020-05-05
+Only grabbing already created charges
+FromDate:  2020-05-01
+[]
+SMTP OK
+item: christian.perfler@destination-wattens.at
+item: ch.perfler@gmail.com
+2020-05-05
+file OK

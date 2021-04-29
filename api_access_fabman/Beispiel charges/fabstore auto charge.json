@@ -1,0 +1,20 @@
+{
+  "id": 58150,
+  "account": 16,
+  "member": 221185,
+  "description": "{\"Kostenstelle\":\"8100\",\"Materialnummer\":\"3315002\",\"Header\":\"FabLab Workshop\",\"description\":\"PHT Lehrerschulung\"}",
+  "price": "100.00",
+  "taxPercent": "20.00",
+  "invoice": 3015,
+  "lockVersion": 3,
+  "createdAt": "2019-12-10T14:12:43.017Z",
+  "updatedAt": "2019-12-10T14:33:33.047Z",
+  "updatedBy": 354,
+  "booking": null,
+  "resourceLog": null,
+  "memberPackage": null,
+  "dateTime": "2019-12-10T15:04:11",
+  "calculated": false,
+  "onBehalfOf": null,
+  "date": "2019-12-10"
+}
